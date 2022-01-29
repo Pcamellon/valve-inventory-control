@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/Portada.jpg</file>
+        <file>Images/Válvula básica(mini).jpg</file>
+        <file>Images/Válvula de Control de Soleoide(mini).jpg</file>
+        <file>Images/Válvula de Reductora de Presión(mini).jpg</file>
+        <file>Images/Válvula de Seguridad de Alivio Rápido(mini).jpg</file>
+        <file>Images/Válvula eléctrica reductora de presión(mini).jpg</file>
+        <file>Images/folder_users.ico</file>
+        <file>Images/Stop.png</file>
+    </qresource>
+</RCC>
